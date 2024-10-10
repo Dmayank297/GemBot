@@ -177,7 +177,6 @@ fun MessageRow(messageData: MessageData) {
 
 @Composable
 fun MessageBox(
-    modifier: Modifier = Modifier,
     onMessageSend: (String)-> Unit
 ) {
     var message by remember {mutableStateOf("")}
