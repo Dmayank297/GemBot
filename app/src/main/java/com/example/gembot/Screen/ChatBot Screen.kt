@@ -106,7 +106,7 @@ fun MessageList(
                 modifier = Modifier
                     .size(40.dp)
                     .clickable {
-                        // TODO: Open message box
+                        //  Open message box
                     },
                 painter = painterResource(id = R.drawable.baseline_message_24),
                 contentDescription = "Icon",
