@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 
 import androidx.compose.ui.Modifier
+import com.example.gembot.Model.ChatViewModel
 
 import com.example.gembot.Screen.ChatBot
 

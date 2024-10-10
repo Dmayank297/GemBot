@@ -50,7 +50,7 @@ import androidx.compose.ui.tooling.preview.Preview
 
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.gembot.ChatViewModel
+import com.example.gembot.Model.ChatViewModel
 import com.example.gembot.Data.MessageData
 import com.example.gembot.R
 import com.example.gembot.ui.theme.ModelColor

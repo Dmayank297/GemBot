@@ -1,10 +1,11 @@
-package com.example.gembot
+package com.example.gembot.Model
 
 
 import androidx.compose.runtime.mutableStateListOf
 import com.google.ai.client.generativeai.GenerativeModel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.gembot.Constant
 import com.example.gembot.Data.MessageData
 import com.google.ai.client.generativeai.type.content
 
