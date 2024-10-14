@@ -9,9 +9,8 @@ GemBot is an Android chatbot application built using Jetpack Compose and Google 
 *   Modern Android development practices (Jetpack Compose, Coroutines)
 
 ## Screenshots
+
 ![WhatsApp Image 2024-10-14 at 09 15 56_f1de9cf4](https://github.com/user-attachments/assets/043493fc-f2e4-46a4-a66c-8e944b5cef5c)  ![WhatsApp Image 2024-10-14 at 09 15 56_29c1a455](https://github.com/user-attachments/assets/1bb1e64d-193d-4ca9-bff4-5a868d794ad4)
-
-
 
 ## Getting Started
 
